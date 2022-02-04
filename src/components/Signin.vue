@@ -1,6 +1,6 @@
 <template>
   <div>
-    <form name="create-user-account" method="POST" data-netlify="true">
+    <form name="create-user-account" method="POST" action="/" data-netlify="true">
       <p>
         <label>First Name: <input type="text" name="firstname" /></label>
       </p>
